@@ -201,6 +201,7 @@ namespace gcore
 			{
 				//no default command : we just print the entry
 				printText(m_Entry);
+				printText("KikooLol");
 			}
 		}
 
