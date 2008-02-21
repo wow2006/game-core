@@ -12,7 +12,7 @@ namespace gcore
 	class TaskManager;
 
 	///Task priority type.
-	typedef long TaskPriority;
+	typedef std::string TaskPriority;
 
 	///Task state.
 	enum TASK_STATE

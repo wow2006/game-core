@@ -402,6 +402,14 @@
 					>
 				</File>
 			</Filter>
+			<Filter
+				Name="Interpolator"
+				>
+				<File
+					RelativePath=".\GC_Interpolator.h"
+					>
+				</File>
+			</Filter>
 		</Filter>
 		<Filter
 			Name="Resource Files"
